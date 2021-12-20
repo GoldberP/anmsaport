@@ -1,3 +1,16 @@
+
+- name: "Mark-Pyman"
+  photo: "/img/people/Mark.jpg"
+  alias: "Mark Pyman"
+  email: "MXP783 @ student.bham.ac.uk"
+  description: "Mark is currently studying MEng Chemical Engineering at the University of Birmingham. In 2020, he began a 
+  year long work placement within the Research & Development department at CalGavin Ltd, subsequently returning to Birmingham 
+  in September 2021 to complete the final year of his degree. With a particular interest in healthcare technologies, Mark is 
+  working on his masters research project within Professor Goldberg Oppenheimer’s group to investigate how CFD can be used to 
+  optimise the performance of a novel lab-on-a-chip device designed for the detection of extracellular vesicles as a biomarker 
+  for ageing."
+  
+
 - name: "William-Barrett"
   photo: "/img/people/WB.jpg"
   alias: "William Barrett"
