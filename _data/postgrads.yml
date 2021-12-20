@@ -100,3 +100,13 @@
   description: "Kieran is currently studying an MRes in Chemical Engineering Science at the University of Birmingham. In 2019, he graduated with a BSc (Hons) in 
   Analytical Chemistry and Forensic Science from Coventry University with a final year research project focusing on assessment of metal contamination on fruits. 
   His MRes thesis is specialised in the development of  spectroscopic technologies for point-of-care detection under the supervision of Dr Goldberg Oppenheimer."
+  
+- name: "Matthias-Lim" 
+  photo: "/img/people/Matt.jpg" 
+  alias: "Matthias Lim"  
+  email: "mtl358 @ student.bham.ac.uk"  
+  description: "Matt began his studies in 2013, graduating with an MSci in Physics from the University of Birmingham in 2017. During this time, he worked on various
+  projects including photonics, robotics, and modelling MHD of binary stars. He then worked for four years building, implementing and validating statistical models 
+  in line with regulatory specifications and business requirements. Matt then joined the ANMSA group as part of the LifETIME CDT and will focus on the development 
+  and optimisation of SERS substrates for use in a multifunction optofluidic platform, demonstrating the performance of the technology for PoC-diagnostics by assessing
+  its capability to rapidly detect validated TBI-biomarkers from biofluids."
