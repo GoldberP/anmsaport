@@ -1,3 +1,14 @@
+- name: "Oscar-Oliphant"
+  photo: "/img/people/Oscar.JPG"
+  alias: "Oscar Oliphant"
+  email: "oscaroliphant28 @ gmail.com"
+  description: "Oscar is a chemical engineering masters (MEng) student at the University of Birmingham. On his year in industry (2020-21)
+  he worked as a research intern for Ceres Power, where he specialised in hydrogen fuel cell development. In particular the analysis of
+  electrochemical impedance spectroscopy where he designed and developed a data analysis app using Matlab. His industrial placement has
+  sparked an interest in the development of innovative technology especially in the renewable energy sector. Recently, he has joined 
+  Prof. Pola Goldberg Oppenheimer’s group for his research project where he aims to use CFD to optimise a novel lab-on-a-chip device for 
+  the detection of extra cellular vesicles as an indicator for ageing."
+
 - name: "Mark-Pyman"
   photo: "/img/people/Mark.JPG"
   alias: "Mark Pyman"
