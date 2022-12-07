@@ -86,9 +86,11 @@
   photo: "/img/people/Kieran.jpg" 
   alias: "Kieran Clark"  
   email: "KRC026 @ student.bham.ac.uk"  
-  description: "Kieran is currently studying an MRes in Chemical Engineering Science at the University of Birmingham. In 2019, he graduated with a BSc (Hons) in 
-  Analytical Chemistry and Forensic Science from Coventry University with a final year research project focusing on assessment of metal contamination on fruits. 
-  His MRes thesis is specialised in the development of  spectroscopic technologies for point-of-care detection under the supervision of Dr Goldberg Oppenheimer."
+  description: "After graduating with a BSc in Analytical Chemistry and Forensic Science in 2019, Kieran progressed into a Master of Research (MRes) in Chemical Engineering 
+  Science, within the ANMSA group, focusing on developing novel technologies for point-of-care detection of pathogens using Raman Spectroscopy. Following the MRes, Kieran 
+  has now joined the Forest Edge Doctoral Scholarship Programme, still working within the ANMSA group and under the supervision of Dr Goldberg Oppenheimer. His research focus 
+  involves the use of Raman Spectroscopy to further the understanding of plant pathogen-host interactions, to find a novel way of diagnosing filamentous plant pathogens, and 
+  the development of a handheld device to detect these changes in the field."
   
 - name: "Matthias-Lim" 
   photo: "/img/people/Matt.jpg" 
