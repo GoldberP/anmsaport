@@ -18,7 +18,7 @@
   University in Aberdeen in 2015.  Following her undergraduate degree, Emma went on to obtain an MSc in Analytical Sciences with
   an interest in DNA, proteomics and metabolomics.  Here she carried out research on the development of a DNA biosensor to determine
   the concentration of plasmid DNA involved in bacterial antibiotic resistance.  In 2018, Emma joined the Physical Sciences for Health
-  Doctoral training centre, where she obtained a further MSc and has progressed to her first year of PhD as part of Dr Pola Goldberg
+  Doctoral training centre, where she obtained a further MSc and has progressed to her first year of PhD as part of Prof. Pola Goldberg
   Oppenheimer’s group.  Her research focusses on the development of a novel lab-on-a-chip for the detection of extracellular vesicles 
   as key targets of ageing."
 
@@ -55,7 +55,7 @@
   moved to London to work with the Clinical Audit and Research Unit of London Ambulance Service (NHS Trust) in 2012. He moved back to Loughborough
   University in 2014 to work as a teaching assistant and do some research work with the microfluidic research team (Chemical Engineering department), 
   producing drug nanoparticles from fabricated microfluidic devices. After a few other roles, he joined the Inhalation Value Stream at Kindeva Drug
-  Delivery (formerly 3M UK Health Care Ltd) in Loughborough, before joining the group of Dr Pola Goldberg Oppenheimer at the University of Birmingham 
+  Delivery (formerly 3M UK Health Care Ltd) in Loughborough, before joining the group of Prof. Pola Goldberg Oppenheimer at the University of Birmingham 
   in September 2020 as a CDT Topological Design research student. His research focuses on Advanced Micro-Nanotopological Platforms for Point-of-Care 
   Diagnostics."
   
@@ -66,7 +66,7 @@
   email: "DCAS784 @ student.bham.ac.uk"  
   description: "Clarissa graduated from the university of Birmingham in 2020 with BSc in Medical Biochemistry. She completed a year of lab based research for her
   dissertation, in which she has evaluated the limits of the protein SecA over-expression within the bacterial Sec pathway. Having had a passion for the idea of 
-  developing novel diagnostics tools within the field of neurology, she is now working under Dr  Goldberg Oppenheimer’s supervision for the development of a Raman
+  developing novel diagnostics tools within the field of neurology, she is now working under Prof.  Goldberg Oppenheimer’s supervision for the development of a Raman
   brain probe with the purpose of diagnosing traumatic brain injury and eventually integrating photherpay for its treatment as well."
   
   
@@ -76,19 +76,10 @@
   email: "KRC026 @ student.bham.ac.uk"  
   description: "After graduating with a BSc in Analytical Chemistry and Forensic Science in 2019, Kieran progressed into a Master of Research (MRes) in Chemical Engineering 
   Science, within the ANMSA group, focusing on developing novel technologies for point-of-care detection of pathogens using Raman Spectroscopy. Following the MRes, Kieran 
-  has now joined the Forest Edge Doctoral Scholarship Programme, still working within the ANMSA group and under the supervision of Dr Goldberg Oppenheimer. His research focus 
+  has now joined the Forest Edge Doctoral Scholarship Programme, still working within the ANMSA group and under the supervision of Prof. Goldberg Oppenheimer. His research focus 
   involves the use of Raman Spectroscopy to further the understanding of plant pathogen-host interactions, to find a novel way of diagnosing filamentous plant pathogens, and 
   the development of a handheld device to detect these changes in the field."
   
-- name: "Matthias-Lim" 
-  photo: "/img/people/Matt.jpg" 
-  alias: "Matthias Lim"  
-  email: "mtl358 @ student.bham.ac.uk"  
-  description: "Matt began his studies in 2013, graduating with an MSci in Physics from the University of Birmingham in 2017. During this time, he worked on various
-  projects including photonics, robotics, and modelling MHD of binary stars. He then worked for four years building, implementing and validating statistical models 
-  in line with regulatory specifications and business requirements. Matt then joined the ANMSA group as part of the LifETIME CDT and will focus on the development 
-  and optimisation of SERS substrates for use in a multifunction optofluidic platform, demonstrating the performance of the technology for PoC-diagnostics by assessing
-  its capability to rapidly detect validated TBI-biomarkers from biofluids."
   
 - name: "Debarati-Bhowmik" 
   photo: "/img/people/Debarati.JPG" 
