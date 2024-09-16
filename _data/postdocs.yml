@@ -32,16 +32,18 @@
   also include optics, material science and thin films, having also worked on mid-infrared materials for sensors during his 
   time at UWS. Current project involves development of SERS surfaces for biomedical and diagnostic applications."
 
+ 
+- name: "Emma-Buchan"
+  photo: "/img/people/Emma B.jpg"
+  alias: "Emma Buchan"
+  email: "ELB863 @ student.bham.ac.uk"
+  description: "Emma started her academic career in 2011, graduating with a BSc (Hons) in Biomedical Science from Robert Gordon
+  University in Aberdeen in 2015.  Following her undergraduate degree, Emma went on to obtain an MSc in Analytical Sciences with
+  an interest in DNA, proteomics and metabolomics.  Here she carried out research on the development of a DNA biosensor to determine
+  the concentration of plasmid DNA involved in bacterial antibiotic resistance.  In 2018, Emma joined the Physical Sciences for Health
+  Doctoral training centre, where she obtained a PhD as part of Prof. Pola Goldberg Oppenheimer’s group. Her current research as PDRA is
+  focussed on the development of a novel lab-on-a-chip for the detection of extracellular vesicles as key targets of diseases."
 
-- name: "Zoltan-Sztranyovszky"
-  photo: "/img/people/Zoltan.jpg"
-  email: "z.sztranyovszky @ bham.ac.uk"
-  alias: "Zoltan Sztranyovszky"
-  description: "Zoltan completed his BSc in Mathematics and Physics at The Open University in 2017 following a career change from logistics. 
-  He then obtained an MSc in Physics at Cardiff University in 2018. His dissertation focused on the optical characterisation 
-  of plasmonic nanoparticles based on scattering and absorption cross-section measurements. He continued with PhD studies at Cardiff 
-  University, where his project focused on the development and application of the Resonant-State Expansion, a technique which is used for 
-  finding the eigenmodes of open optical system. After finishing his PhD he joined the ANMSA group in 2022 where he works on developing 
-  analysis tools for point-of-care diagnostics."
+
 
 
