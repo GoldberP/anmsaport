@@ -1,29 +1,4 @@
 
-- name: "David-Odetade" 
-  photo: "/img/people/David.jpg" 
-  alias: "David Odetade"  
-  email: "DFO070 @ student.bham.ac.uk"  
-  description: "David graduated from Obafemi Awolowo University, Ile-Ife, Nigeria in 2005 with a BSc. in Chemical Engineering. He worked for a 
-  few years in Nigeria before moving to United Kingdom in 2009 to pursue his Masters in Advanced Chemical Engineering with IT and Management at
-  Loughborough University, with his dissertation focusing on fabrication of microfluidic devices. After the completion of his MSc. programme, he 
-  moved to London to work with the Clinical Audit and Research Unit of London Ambulance Service (NHS Trust) in 2012. He moved back to Loughborough
-  University in 2014 to work as a teaching assistant and do some research work with the microfluidic research team (Chemical Engineering department), 
-  producing drug nanoparticles from fabricated microfluidic devices. After a few other roles, he joined the Inhalation Value Stream at Kindeva Drug
-  Delivery (formerly 3M UK Health Care Ltd) in Loughborough, before joining the group of Prof. Pola Goldberg Oppenheimer at the University of Birmingham 
-  in September 2020 as a CDT Topological Design research student. His research focuses on Advanced Micro-Nanotopological Platforms for Point-of-Care 
-  Diagnostics."
-  
-  
-- name: "Clarissa-Stickland" 
-  photo: "/img/people/Clarissa.jpg" 
-  alias: "Clarissa Stickland"  
-  email: "DCAS784 @ student.bham.ac.uk"  
-  description: "Clarissa graduated from the university of Birmingham in 2020 with BSc in Medical Biochemistry. She completed a year of lab based research for her
-  dissertation, in which she has evaluated the limits of the protein SecA over-expression within the bacterial Sec pathway. Having had a passion for the idea of 
-  developing novel diagnostics tools within the field of neurology, she is now working under Prof.  Goldberg Oppenheimer’s supervision for the development of a Raman
-  brain probe with the purpose of diagnosing traumatic brain injury and eventually integrating photherpay for its treatment as well."
-  
-  
 - name: "Kieran-Clark" 
   photo: "/img/people/Kieran.jpg" 
   alias: "Kieran Clark"  
